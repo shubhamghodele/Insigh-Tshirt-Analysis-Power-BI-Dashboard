@@ -74,4 +74,4 @@ Product Strategy – Highlights brands with high product variety
 Decision Support – Assists retail teams in optimizing promotions and pricing
 
 6.Screenshots / Demos Show what the dashboard looks like.![Interactive Power BI dashboard with KPIs, charts, and slicers](https://github.com/shubhamghodele/Insigh-Tshirt-Analysis-Power-BI-Dashboard/blob/main/Available%20Brands.png)
-![Interactive Power BI dashboard with KPIs, charts, and slicers](https://github.com/shubhamghodele/Insigh-Tshirt-Analysis-Power-BI-Dashboard/blob/main/Details.png)
+![Interactive Power BI dashboard with KPIs, charts, and slicers](https://github.com/shubhamghodele/Insigh-Tshirt-Analysis-Power-BI-Dashboard/blob/main/Dashboard.png)
