@@ -67,6 +67,7 @@ Enables users to filter and analyze individual brands interactively
 
 🔹 Business Impact & Insights
 
+
 Pricing Strategy Analysis – Understands how discounts impact profit
 Brand Performance Evaluation – Identifies top and bottom performing brands
 Product Strategy – Highlights brands with high product variety
